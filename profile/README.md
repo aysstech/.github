@@ -19,9 +19,11 @@ AYSS Tech LLC designs, builds, secures and runs AI, cloud and software systems.
 - Cloud and infrastructure: architecture, migration and platforms
 - Data and analytics, modernization, managed services, strategy and advisory
 
-**Products**
+**SaaS products**
 
-- Tierpact: in build
+We build and run our own SaaS products alongside client work.
+
+- Tierpact: construction claims platform, in build
 
 **Contact**
 
