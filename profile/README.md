@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://aysstech.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/aysstech-wordmark-dark.svg">
-      <img alt="AYSS Tech" src="assets/aysstech-wordmark-light.svg" width="420">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aysstech/.github/main/profile/assets/aysstech-wordmark-dark.svg">
+      <img alt="AYSS Tech" src="https://raw.githubusercontent.com/aysstech/.github/main/profile/assets/aysstech-wordmark-light.svg" width="420">
     </picture>
   </a>
 </p>
