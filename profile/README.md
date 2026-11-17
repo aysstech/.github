@@ -23,8 +23,6 @@ AYSS Tech LLC designs, builds, secures and runs AI, cloud and software systems.
 
 We build and run our own SaaS products alongside client work.
 
-- Tierpact: construction claims platform, in build
-
 **Contact**
 
 [aysstech.com](https://aysstech.com) · [hello@aysstech.com](mailto:hello@aysstech.com)
